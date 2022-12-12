@@ -1,0 +1,27 @@
+#Adduser{
+    width: 60%;
+    margin: auto;
+    margin-bottom: 30px;
+    background-color: #718355;
+    height: auto;
+    padding: 30px;
+}
+
+#Adduser p{
+    background-color: #718355;
+    color: aliceblue;
+    font-size: 20px;
+    margin: auto;
+    height: auto;
+    width: 70%;
+}
+
+#Adduser *{
+    width: 90%;
+    height: 50px;
+}
+
+#link{
+    color:aliceblue;
+}
+

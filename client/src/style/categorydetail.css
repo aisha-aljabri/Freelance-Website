@@ -1,0 +1,41 @@
+#category{
+    width: 60%;
+    margin: auto;
+    margin-bottom: 30px;
+    height: auto;
+    padding: 30px;
+}
+
+.user{
+    width: 90%;
+    padding: 30px 10px 10px 10px;
+    background-color: #718355;
+    margin: auto;
+    border: 2px solid aliceblue;
+    height: 170px;
+    padding-bottom: 30px;
+    border-radius: 15px;
+}
+
+#category img{
+    width: 150px;
+    height: 150px;
+    margin-left: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 25px;
+}
+
+#category p{
+    display: inline-block;
+    vertical-align: top;
+    background-color: #718355;
+    color: aliceblue;
+}
+
+#category button{
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    border: 2px solid #718355;
+}

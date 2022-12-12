@@ -1,0 +1,32 @@
+#header{
+    width: 1490px;
+    height: 400px;
+    background-image: url('../img/header2.jpg');
+    background-repeat: no-repeat;
+    margin: 20px auto;
+    border: 5px solid #718355;
+    margin-bottom: 0px;
+    margin-top: 50px;
+}
+
+#nav{
+    background-color: #718355;
+    height: 40px;
+    margin-left: 9.5px;
+    width: 500px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding: 10px;
+    margin-bottom: 60px;
+}
+
+.navLink{
+    font-size: 18px;
+    color: aliceblue;
+    text-decoration: none;
+    margin-right: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: #718355;
+    border: none;
+}

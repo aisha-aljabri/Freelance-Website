@@ -1,0 +1,33 @@
+#login{
+    width: 60%;
+    margin: auto;
+    margin-bottom: 50px;
+    background-color: #718355;
+    height: auto;
+    padding: 30px;
+}
+
+#login p{
+    background-color: #718355;
+    color: aliceblue;
+    font-size: 20px;
+    margin: auto;
+    height: auto;
+    width: 70%;
+}
+
+p *{
+    width: 100%;
+    height: 50px;
+}
+
+h1{
+    color:aliceblue;
+}
+#link{
+    color:white;
+    
+}
+#logform{
+    background-color: #718355;
+}

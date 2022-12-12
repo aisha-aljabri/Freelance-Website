@@ -1,0 +1,29 @@
+#home{
+    width: 70%;
+    height: 400px;
+    border-top: 2px solid #718355;
+    border-bottom: 2px solid #718355;
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    margin-top: 100px;
+    
+}
+
+.userlevel{
+    width: 300px;
+    height: 200px;
+    margin: 70px;
+    font-size: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: #718355;
+    color: aliceblue;
+    margin-top: 100px;
+}
+
+.userlevel:hover{
+    background-color: #424e2e;
+}

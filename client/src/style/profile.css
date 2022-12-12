@@ -1,0 +1,97 @@
+#profile{
+    width: 60%;
+    margin: auto;
+    margin-bottom: 150px;
+    background-color: #718355;
+    height: auto;
+    padding: 30px;
+    border-radius: 15px;
+    color: #ffffff;
+    
+}
+#profile p{
+    background-color: #718355;
+
+}
+
+#profile button{
+    width: 120px;
+    height: 40px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+
+}
+#mybut{
+    margin-left: 30%;
+    
+}
+#userinfo, img{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#userinfo{
+    margin-top: 15px;
+    width: 40%;
+    color: #ffffff;
+}
+
+#comment{
+    margin-top: 300px;
+    width: 80%;
+    margin: auto;
+    height: auto;
+    text-align: left;
+}
+#comment textarea{
+    width: 100%;
+    height: 100px;
+    
+}
+#submit{
+    width: 80px;
+}
+.allcomment{
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
+.allcomment p{
+    line-height: 0.5;
+}
+.com{
+    margin-bottom: 20px;
+    /* border: 2px solid white; */
+    /* background-color:rgb(221, 221, 221); */
+    padding: 0px 20px 20px 20px;
+    border-radius: 5px;
+    border-bottom: 2px solid #a8b493;
+}
+.com.p{
+    line-height: 0;
+}
+
+
+h5{
+    border-bottom:2px solid rgb(151, 151, 151) ;
+}
+
+#profile div{
+    height: auto;
+}
+
+
+#rate{
+    height: auto;
+    background-color: 718355;
+}
+
+#rate p{
+    background-color: 718355;
+}
+
+#rating{
+    width: 80%;
+    margin: auto;
+}
